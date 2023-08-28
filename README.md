@@ -1,11 +1,15 @@
 # Keyword-Network-and-Word-Frequency-Analysis
 IE 6400 Project 
+
 This File provides an overview of Project 3, which aims to perform keyword network analysis and word frequency analysis. The project involves several tasks to extract, process, and analyze data from a given dataset. The primary tasks include creating a weighted adjacency matrix from keyword data, generating a weighted network, computing node degree and strength, identifying top nodes based on degree and strength, finding the top node pairs by weight, and plotting average strength against node degree.
 
-Task Overview
+##Task Overview
 Task 1: Data Extraction and Network Creation
 Dataset Download: Obtain the dataset for the project from the provided link:
 Project 3 Dataset.
+
+![image](https://github.com/DhruvMiyani/Keyword-Network-and-Word-Frequency-Analysis/assets/54111873/dca7440b-0d49-4729-9238-1c26b6aaa169)
+
 
 Python Code for Data Extraction: Write a Python script to extract keyword data from the downloaded spreadsheet. Convert this data into a weighted adjacency matrix based on the relationships between keywords.
 
